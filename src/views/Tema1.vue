@@ -20,7 +20,7 @@
       #t_1_1.titulo-segundo.mb-4(data-aos="zoom-in-left")
         h2 1.1  Concepto y características
       
-      p El concepto de comunidad tiene sus raíces en la antigüedad. Surge de la necesidad humana de protección, cooperación y asentamiento compartido en un territorio. Proviene del latín communitas, que significa la convivencia y unión de individuos con intereses, valores, cultura o metas compartidas.
+      p El concepto de comunidad tiene sus raíces en la antigüedad. Surge de la necesidad humana de protección, cooperación y asentamiento compartido en un territorio. Proviene del latín #[em communitas], que significa la convivencia y unión de individuos con intereses, valores, cultura o metas compartidas.
       p En el marco del turismo comunitario, el Ministerio de Comercio, Industria y Turismo (MinCIT, 2012) define la comunidad como un grupo de personas que se organizan e integran en busca de un objetivo común, a través del establecimiento de normas y funciones.
 
       .cajon.color-primario.p-4.mb-4(data-aos="zoom-in-left")

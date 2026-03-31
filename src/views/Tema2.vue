@@ -34,8 +34,8 @@
               )
               .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
               p.mt-3
-                em Pódcast:
-                |  Para contextualizar el perfil del turista comunitario y su importancia en la planificación estratégica del territorio, se recomienda escuchar el #[em pódcast] "¿Quién viaja al territorio y qué espera encontrar?" que introduce los conceptos clave de esta sección de manera conversacional.
+                em Podcast:
+                |  Para contextualizar el perfil del turista comunitario y su importancia en la planificación estratégica del territorio, se recomienda escuchar el #[em podcast] “¿Quién viaja al territorio y qué espera encontrar?”, que introduce los conceptos clave de esta sección de manera conversacional.
 
       .row.justify-content-start.mb-4(data-aos="zoom-in-left")
         .col-md-11.col-lg-12.col-12

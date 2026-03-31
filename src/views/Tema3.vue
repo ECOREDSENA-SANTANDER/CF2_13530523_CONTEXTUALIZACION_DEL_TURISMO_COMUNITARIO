@@ -12,9 +12,10 @@
           :style="{'background-image': `url(${require('@/assets/curso/Tema3/img01.png')})`}"
         )
         .bloque-texto-g__texto.p-4
-          p.mb-0 La comunidad constituye el eje central del turismo comunitario. Su comprensión permite reconocer las dinámicas organizativas, culturales y territoriales que hacen posible el desarrollo de iniciativas turísticas sostenibles e incluyentes. En este punto se abordan el concepto, las características, las formas de organización y las expresiones culturales que definen a la comunidad como actor principal del territorio.
+          p.mb-0 Las actividades turísticas son el componente central de la oferta comunitaria. Su diseño y desarrollo responsable dependen de los recursos, los saberes y las capacidades organizativas de cada territorio.
             br
             br
+            | En este punto se analizan el concepto, las características, los tipos de actividades y los criterios para su diseño coherente con el patrimonio natural, cultural y social de la comunidad anfitriona.
     separador 
     #t_3_1.titulo-segundo.mb-4(data-aos="zoom-in-left")
       h2 3.1  Concepto y características
@@ -87,6 +88,7 @@
     #t_3_2.titulo-segundo.mb-4(data-aos="zoom-in-left")
       h2 3.2  Tipos de actividades
     
+    p.mb-2 Las comunidades pueden desarrollar diversos tipos de actividades turísticas de acuerdo con sus recursos y capacidades. Estas actividades deben ser coherentes con el contexto territorial y con las expectativas de las personas visitantes: 
     .row.justify-content-start.mb-4(data-aos="zoom-in-left")
         .col-md-11.col-lg-12.col-12
           .d-flex.align-items-center.mt-4
@@ -187,7 +189,7 @@
               .col-md-9.mb-4.mb-md-0.col-lg-10
                 h3.text-izq Definición de objetivos
                 p.text-izq Se establecen los propósitos de cada actividad: qué experiencia se ofrece, a quién va dirigida y qué beneficios genera para el territorio.
-                ul.lista-ul--color
+                ul.lista-ul--color.text-izq
                   li
                     i.fas.fa-check
                     | Ficha de actividad con objetivos definidos.
@@ -234,10 +236,13 @@
             br
             | Una estrategia de comercialización efectiva requiere la definición de un mercado objetivo, la estructuración de paquetes turísticos y la utilización de canales de promoción adecuados. Las comunidades pueden recurrir a plataformas digitales, redes sociales, alianzas con agencias de viajes y participación en ferias turísticas para dar a conocer su oferta.
 
+    .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+      h5 Figura 1.
+      span Guía para la comercialización exitosa del turismo comunitario 
     ImagenInfografica.color-acento-botones.mb-4(data-aos="zoom-in-left")
       template(v-slot:imagen)
         figure
-          img(src='@/assets/curso/Tema3/interactiva.svg', alt='')
+          img(src='@/assets/curso/Tema3/interactiva.svg', alt='Infografía de cinco bloques sobre comercialización del turismo comunitario: 1) Definir canales y mercado objetivo, 2) Estrategia y promoción de la experiencia, 3) Información clara y accesible para el turista, 4) Estructuración de paquetes coherentes según capacidad territorial, 5) Gestión económica y sostenibilidad que incluye fijación de precios y distribución equitativa de ingresos.')
       .tarjeta.row.img-infog.bg4.align-items-center.p-4(numero="2" x="50%" y="12%")
         .col-md-12.col-12.px-lg-4.px-3.py-1.contenido.text-white
           h5 Estrategia y promoción de la experiencia  

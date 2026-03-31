@@ -206,19 +206,19 @@
                     th.bg2.text-izq Descripción
                 tbody
                   tr
-                    th.text-izq Seguridad para visitantes y comunidad
+                    td.text-izq Seguridad para visitantes y comunidad
                     td.text-izq Los destinos turísticos comunitarios deben contar con condiciones y protocolos que garanticen la seguridad física y emocional de visitantes y anfitriones.
                   tr
-                    th.text-izq Protección del patrimonio natural y cultural
+                    td.text-izq Protección del patrimonio natural y cultural
                     td.text-izq Las actividades turísticas deben desarrollarse con pleno respeto por el patrimonio natural y cultural del territorio, evitando impactos negativos irreversibles.
                   tr
-                    th.text-izq Participación comunitaria en la gestión
+                    td.text-izq Participación comunitaria en la gestión
                     td.text-izq La comunidad debe intervenir activamente en la planificación, ejecución y evaluación de las actividades turísticas, garantizando la gobernanza local.
                   tr
-                    th.text-izq Transparencia en la distribución de beneficios
+                    td.text-izq Transparencia en la distribución de beneficios
                     td.text-izq Los ingresos generados por el turismo deben distribuirse de manera equitativa entre los miembros de la comunidad, con criterios claros y verificables.
                   tr
-                    th.text-izq Mejora continua en los servicios
+                    td.text-izq Mejora continua en los servicios
                     td.text-izq Las iniciativas turísticas comunitarias deben implementar mecanismos de evaluación y retroalimentación que permitan mejorar continuamente la calidad de la oferta.
       .col-lg-4.col-8.col-md-6
         img(src='@/assets/curso/Tema4/img06.png', alt='Texto que describa la imagen')
