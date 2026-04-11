@@ -30,7 +30,7 @@
             .tarjeta.bg-white.p-4
               TarjetaAudio.color-acento-botones(
                 texto="¿Quién viaja al territorio y qué espera encontrar?"
-                :audio="require('@/assets/curso/Tema2/prueba.mp3')"
+                :audio="require('@/assets/curso/Tema2/podcast.mp3')"
               )
               .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
               p.mt-3
